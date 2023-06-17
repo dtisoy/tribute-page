@@ -80,9 +80,15 @@ ul li {
 section {
   background-color: var(--background-color-2);
   padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 section > p {
   margin: 20px auto;
   font-style: normal;
+}
+
+footer {
+  width: fit-content;
+  margin: auto;
 }
